@@ -55,7 +55,7 @@ letter-spacing:0.5px;
 
 .hero p{
 font-size:1.05rem;
-color:#ddd;
+color:#ffffff;
 margin-bottom:28px;
 max-width:700px;
 margin-left:auto;
@@ -240,10 +240,7 @@ grid-template-columns:repeat(2, minmax(0, 1fr));
 }
 
 .project-content{
-    display:flex;
-    flex-direction:column;
-}
-
+    padding:20px 20px 18px;
 }
 .you{
     font-size: 30px;
@@ -254,4 +251,5 @@ grid-template-columns:repeat(2, minmax(0, 1fr));
     display: flex;
     gap: 60;
     justify-content: center;
+}
 }
